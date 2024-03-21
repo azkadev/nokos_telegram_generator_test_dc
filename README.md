@@ -1,21 +1,9 @@
-# NokosTelegramGeneratorTestDc
+IyBOb2tvc1RlbGVncmFtR2VuZXJhdG9yVGVzdERjCgoKLS0tCgojIyMgRGVt
+bwoKLS0tCgojIyMgSW5zdGFsbCBMaWJyYXJ5CgpgYGBiYXNoCmRhcnQgcHVi
+IGFkZCBub2tvc190ZWxlZ3JhbV9nZW5lcmF0b3JfdGVzdF9kYwpgYGAKCm9y
+IGZsdXR0ZXIKCmBgYGJhc2gKZGFydCBwdWIgYWRkIG5va29zX3RlbGVncmFt
+X2dlbmVyYXRvcl90ZXN0X2RjX2ZsdXR0ZXIKYGBgCiA=
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add nokos_telegram_generator_test_dc
-```
-
-or flutter
-
-```bash
-dart pub add nokos_telegram_generator_test_dc_flutter
-```
- 
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
